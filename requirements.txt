@@ -1,0 +1,10 @@
+deepface
+retina-face
+opencv-python
+tensorflow
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn

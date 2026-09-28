@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Student photos stay on your machine. Do not commit them.
+images/**/*.jpg
+images/**/*.jpeg
+images/**/*.png
+images/**/*.JPG
+images/**/*.JPEG
+images/**/*.PNG
